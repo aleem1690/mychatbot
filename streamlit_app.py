@@ -1,4 +1,4 @@
-!pip install requirements.txt
+pip install requirements.txt
 
 import streamlit as st
 from hugchat import hugchat
